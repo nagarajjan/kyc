@@ -3,6 +3,8 @@
 
 # Run the script:
 sh
+# PIP 
+pip install langchain langchain_community langgraph chromadb
 
 # python your_script_name.py
 
